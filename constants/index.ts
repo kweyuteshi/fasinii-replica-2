@@ -2,10 +2,11 @@ export const footerLinks = [
     {
       title: "Fasinii",
       links: [
-        { title: "Privacy policy", url: "/" },
+        {title: "About us", url: "/about"},
+        { title: "Privacy policy", url: "/policies" },
         { title: "Terms and Conditions", url: "/" },
         { title: "Cancellation Policy", url: "/" },
-        { title: "Contacts", url: "/" },
+        { title: "Contacts", url: "/contacts" },
       ],
     },
     {

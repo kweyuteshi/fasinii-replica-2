@@ -24,13 +24,13 @@ const CarDetailsPage = () => {
             <p className='text-[#479ED5]'>{car.year}</p>
           </div>
           </div>
-          <div className='w-full z-0 relative'>
+          <div className='w-full h-fit relative'>
             <div className='w-full md:block relative '>
             <span style={{boxSizing: 'border-box', display: 'block', overflow: 'hidden', width: 'initial', height: 'initial', background: 'none', opacity: 1, border: '0px', margin: '0px', padding: '0px', position: 'relative'}}>
           <span style={{boxSizing: 'border-box', display: 'block', width: 'initial', height: 'initial', background: 'none', opacity: 1, border: '0px', margin: '0px', padding: '0px', paddingTop: '30%'}}></span>
           <img src={car.image_url} style={{ position: 'absolute', top: 0, left: 0, bottom: 0, right: 0, boxSizing: 'border-box', padding: 0, border: 'none', margin: 'auto', display: 'block', width: 0, height: 0, minWidth: '100%', maxWidth: '100%', minHeight: '100%', maxHeight: '100%', objectFit: 'cover'}} />
            </span>
-           <div class="absolute top-0 left-0 right-0 bottom-0 bg-black/0 z-[1]"></div> </div>
+           <div className="absolute top-0 left-0 right-0 bottom-0 bg-black/0 z-[1]"></div> </div>
     </div>
     <div className='max-w-[1240px] w-full mb-12 h-full mx-auto p-4 m-3 flex r lg:justify-between flex-col-reverse md:flex-row md:justify-between '>
       <div className=' w-full lg:w-[50%] mt-8'>
