@@ -1,0 +1,26 @@
+{
+    "Testimonials": [
+{
+     "id": 1,
+      "image": "https://www.fasinii.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fperson1.c8f9276a.png&w=1080&q=75",
+      "name": "Michael Njuguna",
+      "testimonial": "Fasinii has made getting rentals so much easier. I can't even remember how I used to rent cars before"
+    },
+
+    {
+        "id": 2,
+         "image": "/test2.jpg",
+         "name": "Marylyne Akinyi",
+         "testimonial": "Fasinii's service is outstanding! Every time i needed something they were quick to repond"
+       },
+
+       {
+        "id": 3,
+         "image": "/test3.jpg",
+         "name": "Johnson Omeke",
+         "testimonial": "It's so easy to view, pay and interact with different hosts . I got the same car i saw on the pictures"
+       }
+]
+  }
+
+  
